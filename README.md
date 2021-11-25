@@ -25,4 +25,4 @@
       c = 30
       print(a,b,c)
   ```
-BIDYAPATI
+NEED TO MODIFY SOME CODE IN PYTHON
