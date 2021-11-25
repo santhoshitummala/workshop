@@ -26,3 +26,4 @@
       print(a,b,c)
   ```
 BIDYAPATI
+NEED TO MODIFIY SOME CODFE IN PYTHON
